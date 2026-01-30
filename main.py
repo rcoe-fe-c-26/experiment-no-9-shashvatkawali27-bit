@@ -15,5 +15,3 @@ if(n>=0):
     print(f"Factorial of {n} is {factorial}")
 else:
     print(f"Factorial of {n} is Not Defined")
-
-
