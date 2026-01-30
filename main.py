@@ -14,4 +14,5 @@ if(n>=0):
         factorial=factorial*i
     print(f"Factorial of {n} is {factorial}")
 else:
-    print(f"Factorial of {n} is Not Defined")
+    print(f"Factorial of 13 is Not Defined")
+
